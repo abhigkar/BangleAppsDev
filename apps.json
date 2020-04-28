@@ -1181,7 +1181,7 @@
     "name": "Super Mario Clock 2",
     "shortName":"Super Mario 2",
     "icon": "supmario2.png",
-    "version":"0.01",
+    "version":"0.02",
     "description": "Super Mario watch face,120x120",
     "tags": "clock",
     "type":"clock",
